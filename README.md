@@ -1,5 +1,6 @@
 # Gundam RX-78-2 Model with Basic Animation 
 **Description**
+
 This project was developed by Chong Zhi Hong along with his partner Tan Yan Pin in liasing to fulfill the coursework criteria of the BACS2173 Graphics Programming subject. The initial plan was to design a robot in the simplest form equipped with the complete basic animation. In which, Gundam RX-78-2 was used as a reference. The project was accomplished within a week timeframe including all the drafting process. 
 
 **System Specifications**
